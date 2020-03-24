@@ -23,19 +23,21 @@ Je cherche aujourd’hui un stage afin de développer les compétences acquises 
 JANVIER 2018 – DECEMBRE 2019 
 
 **Soutien aux entreprises du secteur culturel**
-
 *Auto-entrepreneur - Paris*
 
 * Gestion de projets
 * Transition numérique 
 
 DÉCEMBRE 2013 - DÉCEMBRE 2017
+
 **Chargée d’administration, de production et de communication**
 *Just Looking Productions - Pôle Sup’93 - Les Folies Françoises*
-Gestion de projets 
+
+* Gestion de projets 
 
 
 # Hobbies
 
 Pratique du hautbois dans divers orchestres de musique classique 
+
 Participation à plusieurs tournages en tant qu’accessoiriste
