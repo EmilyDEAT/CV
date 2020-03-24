@@ -1,5 +1,3 @@
-Présentation;Formation;Expérience professionnelle;Hobbies;des liens vers des URLs extérieures,une photo de profil (hébergée sur Github, ou non),du texte en gras (nom d’entreprises ou d’écoles),du texte en italique (description des postes en expériences professionnelles).
-
 # Présentation
 
 ![Photo d'Emily Déat](https://media-exp1.licdn.com/dms/image/C4E03AQGCJ5UrogOE-w/profile-displayphoto-shrink_200_200/0?e=1590624000&v=beta&t=A98pV742KSo2UUdxlOD3VFe7GWJ6-C6vMQqloZ3vvAI)
@@ -27,6 +25,7 @@ JANVIER 2018 – DECEMBRE 2019
 
 * Gestion de projets
 * Transition numérique 
+
 
 DÉCEMBRE 2013 - DÉCEMBRE 2017
 
