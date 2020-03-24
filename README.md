@@ -6,20 +6,26 @@ Présentation;Formation;Expérience professionnelle;Hobbies;des liens vers des U
 
 J’étais chargée de mission dans la culture  pendant 6 ans et j’ai décidé de me reconvertir vers le développement web.
 Mon précédent métier m’a appris à **travailler en situation de stress** lors d’évènements et à être **polyvalente** et **curieuse**.
+
+
 Je cherche aujourd’hui un stage afin de développer les compétences acquises pendant ma formation.
 
 
 # Formation
 
 2020 - **Formation développeur web et mobile (5 mois)**
+
 [Wild Code School](https://www.wildcodeschool.com/fr-FR) - *Paris*
 
 
 # Expérience professionnelle
 
 JANVIER 2018 – DECEMBRE 2019 
+
 **Soutien aux entreprises du secteur culturel**
+
 *Auto-entrepreneur - Paris*
+
 * Gestion de projets
 * Transition numérique 
 
