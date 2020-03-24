@@ -18,12 +18,14 @@ Je cherche aujourd’hui un stage afin de développer les compétences acquises 
 # Expérience professionnelle
 
 JANVIER 2018 – DECEMBRE 2019 
-**Soutien aux entreprises du secteur culturel** – *Auto-entrepreneur - Paris*
+**Soutien aux entreprises du secteur culturel**
+*Auto-entrepreneur - Paris*
 * Gestion de projets
 * Transition numérique 
 
 DÉCEMBRE 2013 - DÉCEMBRE 2017
-**Chargée d’administration, de production et de communication** – *Just Looking Productions - Pôle Sup’93 - Les Folies Françoises*
+**Chargée d’administration, de production et de communication**
+*Just Looking Productions - Pôle Sup’93 - Les Folies Françoises*
 Gestion de projets 
 
 
