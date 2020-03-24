@@ -21,6 +21,7 @@ Je cherche aujourd’hui un stage afin de développer les compétences acquises 
 ### JANVIER 2018 – DECEMBRE 2019 
 
 **Soutien aux entreprises du secteur culturel**
+
 *Auto-entrepreneur - Paris*
 
 * Gestion de projets
@@ -30,6 +31,7 @@ Je cherche aujourd’hui un stage afin de développer les compétences acquises 
 ### DÉCEMBRE 2013 - DÉCEMBRE 2017
 
 **Chargée d’administration, de production et de communication**
+
 *Just Looking Productions - Pôle Sup’93 - Les Folies Françoises*
 
 * Gestion de projets 
